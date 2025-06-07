@@ -1,6 +1,6 @@
 # Karpathy Zero to Hero: Neural Networks from Scratch 🧠🚀
 
-Welcome to my repository containing my implementations of **Andrej Karpathy's Neural Networks: Zero to Hero series**. This repo is a personal project where I follow along Karpathy’s videos to deeply understand neural networks by building them from the ground up in Python.
+Welcome to my repository containing implementations of **Andrej Karpathy's Neural Networks: Zero to Hero series**. This repo is a personal project where I follow along Karpathy’s videos to deeply understand neural networks by building them from the ground up in Python.
 
 ---
 
